@@ -16,5 +16,5 @@
      * Create folder: C:/www/html/Images
      * Create folder: C:/www/html/TRFiles
    * MAC:
-	* /etc/apache2/httpd.conf
-	* apachectl start/stop/restart
+     * /etc/apache2/httpd.conf
+     * apachectl start/stop/restart
