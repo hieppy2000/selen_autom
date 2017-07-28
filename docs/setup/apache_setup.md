@@ -1,5 +1,5 @@
 ## Apache setup
-* Install apache
+* Install/Configure apache
    * Configure httpd.config
 	  change DocumentRoot “/Users/hiep/www”
 	  change <Directory “/Users/hiep/www”
