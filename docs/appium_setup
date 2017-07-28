@@ -1,0 +1,21 @@
+## Install appium for IOS
+
+  * brew install node
+
+  * npm install -g appium
+
+  * npm install -g appium-doctor
+  
+  * brew install carthage
+  
+  * brew install libimobiledevice
+  
+  * npm install -g authorize-ios
+  
+  * sudo authorize-ios
+  
+  * install xcode from apple website
+  
+## Troubleshooting:
+  appium-doctor
+  appium &
