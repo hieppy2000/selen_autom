@@ -15,5 +15,5 @@ https://www.howtoforge.com/tutorial/how-to-install-jenkins-with-apache-on-ubuntu
 8. To run example selenium test case inside docker image and mount selen_test.py:
     * docker run -rm -v /home/hiep/my_dockers:/home/hiep/my_dockers -it selen_image /bin/bash -c “python /home/hiep/my_dockers/selen_test.py”
 9.  To run selenium test with robot framework:
-will be continued
+    * command here .... will be continued
 
