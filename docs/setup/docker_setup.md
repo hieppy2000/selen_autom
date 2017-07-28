@@ -10,11 +10,12 @@
 4. Copy file "selen_test.py" to /home/hiep/my_dockers
 5. Make sure "chromedriver" download and put under /home/hiep/my_dockers
 6. Build docker image command: 
-    * docker build -f "selen_docker_file1"
+    * docker build -t <image_name> -f <dockerfile> .
+      * docker build -f "selen_docker_file1" -t selen_image1 .
 7. To test docker image build: 
-    * docker run -t -i --rm selen_docker_file1 ls
+    * docker run -t -i --rm selen_image1 ls
 8. To run example selenium test case inside docker image and mount selen_test.py:
-    * docker run -rm -v /home/hiep/my_dockers:/home/hiep/my_dockers -it selen_image /bin/bash -c “python /home/hiep/my_dockers/selen_test.py”
+    * docker run -rm -v /home/hiep/my_dockers:/home/hiep/my_dockers -it selen_image1 /bin/bash -c “python /home/hiep/my_dockers/selen_test.py”
 9.  To run selenium test with robot framework:
     * command here .... will be continued
 
