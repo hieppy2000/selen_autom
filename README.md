@@ -1,4 +1,4 @@
 ## Topic covers:
-* Selenium Automation with Robot framework
-* Jenkins with Robot frame work
-* Docker with Robot framework and selenium
+* Selenium Automation with Robot Framework
+* Jenkins with Robot Framework
+* Docker with Robot Framework and selenium
