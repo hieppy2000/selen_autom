@@ -4,7 +4,7 @@
 * pip install robotframework-debuglibrary (https://pypi.python.org/pypi/robotframework-debuglibrary/0.8)
 * pip install robotframework-lint   #error checking for .robot file (http://boakley.github.io/2014/11/30/robotframework-lint-preview/)
 
-## Appium
+## Appium - Robotframework
 * https://github.com/serhatbolsu/robotframework-appiumlibrary
 * pip install robotframework-appiumlibrary
 
