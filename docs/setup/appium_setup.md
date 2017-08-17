@@ -1,4 +1,4 @@
-## Install appium for IOS
+## Install appium for MAC
 
   * brew install node
 
