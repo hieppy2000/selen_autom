@@ -1,6 +1,7 @@
 ## Robotframework installation:
 * pip install robotframework
 * pip install robotframework-selenium2library
+* install SeleniumLibrary for python3: https://github.com/robotframework/Selenium2Library
 * pip install robotframework-debuglibrary (https://pypi.python.org/pypi/robotframework-debuglibrary/0.8)
 * pip install robotframework-lint   #error checking for .robot file (http://boakley.github.io/2014/11/30/robotframework-lint-preview/)
 
