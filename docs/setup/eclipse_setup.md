@@ -5,6 +5,5 @@
 * Install NOKIA RED plugin for Eclipse: http://master.dl.sourceforge.net/project/red-robot-editor/repository
   * https://github.com/nokia/RED
 * Install Python 3 for MAC:
-  * brew install python3
-  * which python3
+  * install from python.org
   
