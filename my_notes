@@ -1,0 +1,4 @@
+### Python Virtual environment 
+virtualenv -p /usr/bin/python2.7 my_project
+source my_project/bin/activate
+deactivate
