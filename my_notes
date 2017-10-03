@@ -2,3 +2,8 @@
 virtualenv -p /usr/bin/python2.7 my_project
 source my_project/bin/activate
 deactivate
+
+
+### SeleniumLibrary
+pip install robotframework-seleniumlibrary==3.0.0b3
+https://github.com/robotframework/SeleniumLibrary/blob/master/docs/SeleniumLibrary-3.0.0b3.rst
