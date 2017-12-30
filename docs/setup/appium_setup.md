@@ -19,3 +19,7 @@
 ## Troubleshooting:
   appium-doctor
   appium &
+
+## Appium Refs:
+https://bitbar.com/how-to-get-started-with-robot-framework-with-example/
+
