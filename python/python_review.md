@@ -8,12 +8,9 @@
 
 ```
 fruit = "banana"
-
 fruit[:3]
-
-output: 'ban'
+>>'ban'
 
 fruit[3:]
-
-output: 'ana'
+>>output: 'ana'
 ```
