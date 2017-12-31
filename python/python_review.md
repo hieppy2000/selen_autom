@@ -3,8 +3,7 @@
 ```
 - reverse string:
   'hello world'[::-1]
-
-  output: 'dlrow olleh'
+  >>'dlrow olleh'
 ```
 
 ```
