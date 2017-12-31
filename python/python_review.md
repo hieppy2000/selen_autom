@@ -1,6 +1,7 @@
 # Slicing:
-- reverse string:
+
 ```
+- reverse string:
   'hello world'[::-1]
 
   output: 'dlrow olleh'
