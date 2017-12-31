@@ -1,5 +1,6 @@
 # Slicing:
-'hello world'[::-1]
+- reverse string:
+  'hello world'[::-1]
 
 output: 'dlrow olleh'
 
