@@ -2,6 +2,7 @@
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04
 * https://www.howtoforge.com/tutorial/how-to-install-jenkins-with-apache-on-ubuntu-16-04/
 * https://christopher.su/2015/selenium-chromedriver-ubuntu/
+* https://stackoverflow.com/questions/39229589/how-to-run-application-from-docker-container-from-host-os
 
 ## Steps to run Docker
 1. From Ubuntu, create folder: /home/hiep/my_dockers
