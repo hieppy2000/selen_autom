@@ -5,7 +5,7 @@
     - create passwd command: mkpasswd -cl > /etc/group
     - export CYGWIN='ntsec tty'
     - chmod +rw /etc/group
-    - chmod +rw /etc/passd
+    - chmod +rw /etc/passwd
     - chmod 0755 /var
     - ssh-host-config
             - should restrictmodes be used? no
