@@ -18,6 +18,7 @@
          - net start sshd
          - net stop sshd
 # 3.  Change "CYGWIN sshd" service in window to local system
+    - Add PATH=C:\cygwin\bin
     - In window, open sevices application and right click to open properties page of "CYGWIN sshd" service
     - Select Logon tab, and enable "Local System account" and enable "Allow with desktop"
     - Note that this step needs to do before run "net start sshd" service
