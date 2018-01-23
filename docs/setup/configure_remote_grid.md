@@ -26,4 +26,6 @@
    6. Notes: 
       - If remote desktop to VM, it will take the RDP resolution instead of default resolution, so you need to reboot 
         the VM  to get default resolution setting in order Selenium Grid to pick up default resolution
+      - Need to configure higher resolution 1600x1200 in remote desktop client so remote VM can have this high 
+        resolution settings
   
